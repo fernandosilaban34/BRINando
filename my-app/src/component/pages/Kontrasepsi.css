@@ -1,0 +1,15 @@
+#fromInput {
+    padding: 7px 7px;
+    margin: 8px ;
+    box-sizing: border-box;
+    border-radius: 5px;
+    border: 1px solid;
+    width: 30%;
+}
+
+.title {
+    font-size: 15px;
+    color: black;
+    margin-left: 10px;
+
+}

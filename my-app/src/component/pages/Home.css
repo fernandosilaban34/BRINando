@@ -1,0 +1,10 @@
+.content {
+    padding-top: 400px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.Container {
+    min-height: 500px;
+}

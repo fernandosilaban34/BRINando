@@ -1,0 +1,21 @@
+h3 {
+  text-align: center;
+  margin-top: 12px;
+}
+
+#title {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-bottom: 25px ;
+  
+}
+.Carousel img {
+  width: 100%;
+  height: auto;
+}
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
